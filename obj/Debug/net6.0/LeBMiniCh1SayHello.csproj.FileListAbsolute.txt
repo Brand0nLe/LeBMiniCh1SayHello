@@ -1,0 +1,15 @@
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/bin/Debug/net6.0/LeBMiniCh1SayHello
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/bin/Debug/net6.0/LeBMiniCh1SayHello.deps.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/bin/Debug/net6.0/LeBMiniCh1SayHello.runtimeconfig.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/bin/Debug/net6.0/LeBMiniCh1SayHello.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/bin/Debug/net6.0/LeBMiniCh1SayHello.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.AssemblyInfo.cs
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/refint/LeBMiniCh1SayHello.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/LeBMiniCh1SayHello.genruntimeconfig.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh1SayHello/obj/Debug/net6.0/ref/LeBMiniCh1SayHello.dll
